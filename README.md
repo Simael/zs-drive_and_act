@@ -2,8 +2,8 @@
 
 ## Overview
 Benchmark protocol for zero-shot driver behavior recognition on the Drive&Act dataset.
-The protocol was proposed in our paper [Activity-Aware Attributes for Zero-Shot Driver Behavior Recognition](http://openaccess.thecvf.com/content_CVPRW_2020/html/w54/Reiss_Activity-Aware_Attributes_for_Zero-Shot_Driver_Behavior_Recognition_CVPRW_2020_paper.html)
-For the Drive&Act dataset, please visit https://www.driveandact.com/
+The protocol was proposed in our paper [Activity-Aware Attributes for Zero-Shot Driver Behavior Recognition](http://openaccess.thecvf.com/content_CVPRW_2020/html/w54/Reiss_Activity-Aware_Attributes_for_Zero-Shot_Driver_Behavior_Recognition_CVPRW_2020_paper.html).
+For the Drive&Act dataset, please visit [https://www.driveandact.com/](https://www.driveandact.com/).
 
 ## Notes on the splits
 For evaluating Zero-Shot methods on the Drive&Act dataset, we generated 10 random splits along the 34 mid-level classes (also called semantic actions or fine-grained activities).
@@ -69,7 +69,7 @@ The following list comprises all ZS-Drive&Act classes:
 - working_on_laptop
 - writing
 
-For semantic embeddings based on words such as the word2vec embeddings we employed the following preprocessing:
+For semantic embeddings based on words such as the word2vec embeddings we employed the following pre-processing:
 
 1) Drop the underscores.
 2) For the activity "looking or moving around (e.g. searching)" we drop the extension "(e.g. searching)".
