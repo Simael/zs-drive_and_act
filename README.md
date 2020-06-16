@@ -2,9 +2,7 @@
 
 ## Overview
 Benchmark protocol for zero-shot driver behavior recognition on the Drive&Act dataset.
-
 The protocol was proposed in our paper [Activity-Aware Attributes for Zero-Shot Driver Behavior Recognition](http://openaccess.thecvf.com/content_CVPRW_2020/html/w54/Reiss_Activity-Aware_Attributes_for_Zero-Shot_Driver_Behavior_Recognition_CVPRW_2020_paper.html)
-
 For the Drive&Act dataset, please visit https://www.driveandact.com/
 
 ## Notes on the splits
@@ -20,20 +18,18 @@ All split information is found in textfiles, with the following naming conventio
 - Validation classes for split n: midlevel_unseen_classes_val_[n].txt
 - Testing classes for split n: midlevel_unseen_classes_test_[n].txt
 
-All 10 random splits are found in the "splits" folder.
+All 10 random splits are found in the [splits folder](https://github.com/Simael/zs-drive_and_act/tree/master/splits).
 
-## Driver activities with Attribtues
+## Driver activities with Attributes
 In the [paper](http://openaccess.thecvf.com/content_CVPRW_2020/html/w54/Reiss_Activity-Aware_Attributes_for_Zero-Shot_Driver_Behavior_Recognition_CVPRW_2020_paper.html) we also derive attributes from the hierarchical annotations of Drive&Act.
-
-The binary attributes can be found in the folder of the same name.
-
+The binary attributes can be found in the [folder of the same name](https://github.com/Simael/zs-drive_and_act/tree/master/attributes).
 We provide three files to load the attribtues:
 
 - attribute_matrix.csv contains the 37 binary values for the 34 classes. Each class occupies a row in this matrix.
-
 - classes.txt contains the names of the 34 classes, each line corresponds to the class of the corresponding row in the attribute matrix.
-
 - attributes.txt contains the names of the 37 attribtues. Each line corresponds to the respective column of the attribute matrix.
+
+For an example on how to load the attributes into vectors, please see [here](https://github.com/Simael/zs-drive_and_act/blob/master/semantic_embedding_utils.py).
 
 ## List of ZS-Drive&Act classes
 The following list comprises all ZS-Drive&Act classes:
@@ -78,4 +74,4 @@ For semantic embeddings based on words such as the word2vec embeddings we employ
 1) Drop the underscores.
 2) For the activity "looking or moving around (e.g. searching)" we drop the extension "(e.g. searching)".
 3) Compute the word2vec embedding for each word in the class name individually.
-4) For class names with multiple words, average the word embedding of each individual word.
+4) For class names with multiple words, average the word embeddings of the individual words.
