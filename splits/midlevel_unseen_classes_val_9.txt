@@ -1,0 +1,10 @@
+writing
+reading_magazine
+taking_off_sunglasses
+closing_door_inside
+exiting_car
+entering_car
+fetching_an_object
+using_multimedia_display
+taking_off_jacket
+eating

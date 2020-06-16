@@ -1,0 +1,14 @@
+closing_bottle
+opening_door_outside
+entering_car
+pressing_automation_button
+looking_or_moving_around (e.g. searching)
+placing_an_object
+using_multimedia_display
+opening_laptop
+closing_laptop
+putting_laptop_into_backpack
+taking_laptop_from_backpack
+reading_newspaper
+reading_magazine
+writing

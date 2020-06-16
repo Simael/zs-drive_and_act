@@ -1,0 +1,14 @@
+drinking
+closing_bottle
+opening_bottle
+preparing_food
+putting_on_sunglasses
+opening_door_outside
+opening_door_inside
+fastening_seat_belt
+pressing_automation_button
+placing_an_object
+opening_laptop
+opening_backpack
+putting_laptop_into_backpack
+taking_laptop_from_backpack

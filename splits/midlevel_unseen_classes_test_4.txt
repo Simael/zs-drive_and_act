@@ -1,0 +1,10 @@
+preparing_food
+closing_door_outside
+exiting_car
+putting_on_sunglasses
+entering_car
+fastening_seat_belt
+opening_door_outside
+fetching_an_object
+using_multimedia_display
+talking_on_phone

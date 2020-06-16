@@ -1,0 +1,10 @@
+unfastening_seat_belt
+fetching_an_object
+writing
+reading_magazine
+exiting_car
+fastening_seat_belt
+working_on_laptop
+entering_car
+preparing_food
+opening_door_outside

@@ -1,0 +1,14 @@
+drinking
+putting_on_sunglasses
+taking_off_sunglasses
+opening_door_inside
+closing_door_inside
+fastening_seat_belt
+entering_car
+exiting_car
+interacting_with_phone
+using_multimedia_display
+taking_off_jacket
+putting_laptop_into_backpack
+working_on_laptop
+writing

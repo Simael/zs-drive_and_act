@@ -1,0 +1,10 @@
+eating
+fastening_seat_belt
+opening_backpack
+taking_off_sunglasses
+entering_car
+pressing_automation_button
+opening_door_outside
+opening_laptop
+drinking
+putting_on_jacket

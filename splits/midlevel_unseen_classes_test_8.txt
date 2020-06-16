@@ -1,0 +1,10 @@
+taking_off_jacket
+closing_door_outside
+drinking
+looking_or_moving_around (e.g. searching)
+reading_magazine
+exiting_car
+reading_newspaper
+opening_bottle
+closing_door_inside
+opening_door_inside

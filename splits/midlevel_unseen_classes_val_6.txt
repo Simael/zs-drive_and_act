@@ -1,0 +1,10 @@
+closing_door_outside
+taking_laptop_from_backpack
+pressing_automation_button
+opening_backpack
+sitting_still
+talking_on_phone
+opening_laptop
+looking_or_moving_around (e.g. searching)
+unfastening_seat_belt
+placing_an_object

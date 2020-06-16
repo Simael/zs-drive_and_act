@@ -1,0 +1,10 @@
+opening_door_inside
+reading_magazine
+fetching_an_object
+interacting_with_phone
+unfastening_seat_belt
+sitting_still
+closing_door_outside
+working_on_laptop
+putting_on_sunglasses
+opening_bottle

@@ -1,0 +1,10 @@
+opening_door_outside
+reading_magazine
+reading_newspaper
+closing_bottle
+putting_on_jacket
+eating
+closing_laptop
+opening_bottle
+preparing_food
+fetching_an_object

@@ -1,0 +1,10 @@
+preparing_food
+closing_bottle
+entering_car
+putting_on_jacket
+opening_door_inside
+reading_magazine
+closing_laptop
+taking_off_sunglasses
+opening_bottle
+fastening_seat_belt

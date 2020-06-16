@@ -1,0 +1,10 @@
+exiting_car
+placing_an_object
+taking_laptop_from_backpack
+pressing_automation_button
+closing_door_outside
+working_on_laptop
+opening_backpack
+closing_door_inside
+writing
+opening_laptop

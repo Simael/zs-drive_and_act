@@ -1,0 +1,10 @@
+taking_off_jacket
+eating
+exiting_car
+opening_backpack
+closing_door_inside
+working_on_laptop
+sitting_still
+interacting_with_phone
+fastening_seat_belt
+preparing_food

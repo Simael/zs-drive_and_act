@@ -1,0 +1,14 @@
+closing_bottle
+preparing_food
+closing_door_inside
+exiting_car
+talking_on_phone
+looking_or_moving_around (e.g. searching)
+placing_an_object
+using_multimedia_display
+taking_off_jacket
+closing_laptop
+putting_laptop_into_backpack
+taking_laptop_from_backpack
+reading_newspaper
+writing

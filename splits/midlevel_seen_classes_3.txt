@@ -1,0 +1,14 @@
+drinking
+eating
+putting_on_sunglasses
+sitting_still
+opening_door_outside
+unfastening_seat_belt
+interacting_with_phone
+talking_on_phone
+looking_or_moving_around (e.g. searching)
+fetching_an_object
+using_multimedia_display
+taking_off_jacket
+putting_laptop_into_backpack
+reading_newspaper

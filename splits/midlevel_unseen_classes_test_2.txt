@@ -1,0 +1,10 @@
+putting_on_jacket
+sitting_still
+using_multimedia_display
+closing_laptop
+closing_door_inside
+looking_or_moving_around (e.g. searching)
+opening_door_outside
+opening_laptop
+eating
+taking_off_jacket

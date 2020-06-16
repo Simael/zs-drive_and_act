@@ -1,0 +1,10 @@
+putting_on_jacket
+putting_on_sunglasses
+opening_laptop
+pressing_automation_button
+closing_bottle
+drinking
+reading_newspaper
+closing_door_outside
+closing_door_inside
+fastening_seat_belt

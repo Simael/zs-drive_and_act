@@ -1,0 +1,10 @@
+pressing_automation_button
+opening_backpack
+preparing_food
+interacting_with_phone
+opening_bottle
+reading_magazine
+unfastening_seat_belt
+exiting_car
+opening_door_inside
+placing_an_object

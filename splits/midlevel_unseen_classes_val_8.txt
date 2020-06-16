@@ -1,0 +1,10 @@
+fastening_seat_belt
+closing_bottle
+writing
+opening_backpack
+preparing_food
+closing_laptop
+using_multimedia_display
+putting_laptop_into_backpack
+sitting_still
+putting_on_jacket

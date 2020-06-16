@@ -1,0 +1,14 @@
+eating
+putting_on_sunglasses
+taking_off_sunglasses
+opening_door_outside
+unfastening_seat_belt
+entering_car
+interacting_with_phone
+talking_on_phone
+pressing_automation_button
+fetching_an_object
+placing_an_object
+opening_laptop
+taking_laptop_from_backpack
+working_on_laptop

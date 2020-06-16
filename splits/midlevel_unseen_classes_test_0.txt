@@ -1,0 +1,10 @@
+taking_off_sunglasses
+eating
+talking_on_phone
+writing
+working_on_laptop
+preparing_food
+taking_off_jacket
+opening_bottle
+placing_an_object
+closing_laptop

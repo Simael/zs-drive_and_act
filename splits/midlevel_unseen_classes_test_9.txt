@@ -1,0 +1,10 @@
+working_on_laptop
+closing_door_outside
+interacting_with_phone
+reading_newspaper
+closing_laptop
+looking_or_moving_around (e.g. searching)
+unfastening_seat_belt
+sitting_still
+talking_on_phone
+putting_on_jacket

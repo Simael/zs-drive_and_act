@@ -1,0 +1,14 @@
+sitting_still
+opening_door_outside
+opening_door_inside
+unfastening_seat_belt
+entering_car
+exiting_car
+interacting_with_phone
+looking_or_moving_around (e.g. searching)
+fetching_an_object
+using_multimedia_display
+opening_backpack
+putting_laptop_into_backpack
+taking_laptop_from_backpack
+reading_magazine

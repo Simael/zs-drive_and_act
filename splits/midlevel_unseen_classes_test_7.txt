@@ -1,0 +1,10 @@
+drinking
+taking_off_sunglasses
+talking_on_phone
+putting_on_jacket
+fetching_an_object
+closing_door_outside
+opening_bottle
+opening_door_inside
+unfastening_seat_belt
+putting_on_sunglasses

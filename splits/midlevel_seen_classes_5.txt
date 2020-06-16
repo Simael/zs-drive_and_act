@@ -1,0 +1,14 @@
+drinking
+eating
+closing_bottle
+sitting_still
+taking_off_sunglasses
+closing_door_inside
+interacting_with_phone
+placing_an_object
+using_multimedia_display
+taking_off_jacket
+opening_backpack
+closing_laptop
+taking_laptop_from_backpack
+reading_newspaper

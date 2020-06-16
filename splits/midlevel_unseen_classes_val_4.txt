@@ -1,0 +1,10 @@
+closing_door_inside
+reading_newspaper
+pressing_automation_button
+eating
+writing
+working_on_laptop
+reading_magazine
+placing_an_object
+unfastening_seat_belt
+putting_laptop_into_backpack
