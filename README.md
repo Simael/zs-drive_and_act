@@ -75,3 +75,9 @@ For semantic embeddings based on words such as the word2vec embeddings we employ
 2) For the activity "looking or moving around (e.g. searching)" we drop the extension "(e.g. searching)".
 3) Compute the word2vec embedding for each word in the class name individually.
 4) For class names with multiple words, average the word embeddings of the individual words.
+
+## Pre-training on Kinetics-600
+When pre-training activity recognition models on large-scale datasets, it has to be ensured, that the classes of such datasets do not overlap with the target classes of the Zero-Shot Learning dataset, e.g. Drive&Act.
+
+To achieve this, we provide the names of the manually selected classes in the [Kinetics-600 dataset](https://arxiv.org/abs/1808.01340), that do not overlap with Drive&Act.
+Pre-training on [these 550 classes](https://github.com/Simael/zs-drive_and_act/blob/master/kinetics_600_excluding_drive_and_act.txt) does not violate the Zero-Shot condition for this benchmark.
